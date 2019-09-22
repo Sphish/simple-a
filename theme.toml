@@ -8,6 +8,6 @@ tags = ["AlexFinn", ]
 features = ["blog", ]
 
 [author]
-    name = "AlexFinn"
-    homepage = "http://ru.alxschwarz.com/"
-    source_repo = "https://github.com/AlexFinn/simple-a"
+    name = "Shangyan Zhou "
+    homepage = "http://sy-zhou.com/"
+    source_repo = "https://github.com/Sphish/simple-a"
